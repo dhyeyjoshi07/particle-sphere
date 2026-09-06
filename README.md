@@ -24,7 +24,7 @@ All dependencies are loaded via CDN (`cdnjs.cloudflare.com` and `cdn.jsdelivr.ne
 
 ## 🚀 Getting Started
 
-1. Download `index.html` (or whatever you've named the file).
+1. Download `index.html`.
 2. Open it in a modern desktop browser (Chrome or Edge recommended for best MediaPipe/WebGL support).
 3. Click **Start Camera** and allow webcam access when prompted.
 4. Hold your hand up in frame and start playing with the sphere.
